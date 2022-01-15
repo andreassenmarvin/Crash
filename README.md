@@ -7,4 +7,4 @@ A simple golang crash app.
 * React
 
 # License
-This project is licensed under the [MIT License](https://github.com/andreassenmarvin/Crash/blob/master/LICENSE)
+This project is licensed under the [MIT LICENSE](https://github.com/andreassenmarvin/Crash/blob/master/LICENSE)
